@@ -29,3 +29,5 @@ viz_654<- list(bands=c('SWIR 1','NIR','RED'),
 # Visualización (Solo en formato html)
 Map$centerObject(L8)
 Map$addLayer(eeObject = L8, visParams =viz_654)
+
+#Pull (realizar alguna modificación en el respositorio y jalar  Rstudio)
